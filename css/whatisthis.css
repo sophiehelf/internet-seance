@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+  color: white;
+  font-size: 26px;
+  margin: 40px;
+  padding: 20px;
+  width: 400px;
+}
+
+h3 {
+  color: red;
+}
